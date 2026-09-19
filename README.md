@@ -1,4 +1,4 @@
-# Beijing Air Quality Dashboard 
+# Beijing Air Quality Dashboard
 
 ## Preview
 ![Dashboard Preview](assets/dashboard-preview.png)
@@ -18,10 +18,10 @@ pip install -r requirements.txt
 
 ## Setup Environment - Shell/Terminal
 
-mkdir beijing_air_quality_dashboard
-cd beijing_air_quality_dashboard
-pipenv install
-pipenv shell
+git clone https://github.com/wekasurajati/beijing-air-quality-dashboard.git
+cd beijing-air-quality-dashboard
+python -m venv env
+source env/Scripts/activate
 pip install -r requirements.txt
 
 
