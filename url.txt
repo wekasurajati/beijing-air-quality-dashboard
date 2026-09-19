@@ -1,0 +1,5 @@
+Dashboard ini belum di-deploy ke Streamlit Community Cloud.
+Untuk menjalankannya, ikuti langkah pada README.md (dashboard sudah diuji dan berjalan lancar secara local).
+
+Jika sudah di-deploy, ganti baris ini dengan tautan dashboard, contoh:
+https://nama-app-anda.streamlit.app
