@@ -1,4 +1,4 @@
-# Beijing Air Quality Dashboard ✨
+# Beijing Air Quality Dashboard 
 
 ## Preview
 ![Dashboard Preview](assets/dashboard-preview.png)
@@ -7,7 +7,7 @@
 Dashboard interaktif untuk eksplorasi kualitas udara pada 12 stasiun pemantauan di Beijing (Air Quality Dataset / PRSA), periode Maret 2013 - Februari 2017. Dibuat sebagai submission akhir kelas Belajar Fundamental Analisis Data (Dicoding).
 
 ## Live Dashboard
-[Isi link Streamlit Cloud di sini setelah deploy]
+https://beijing-air-quality-reporting.streamlit.app/
 
 ## Setup Environment - Anaconda
 
